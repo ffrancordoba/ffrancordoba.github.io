@@ -342,6 +342,9 @@ footer a {
     * {
         text-align: center;
     }
+	span {
+		text-align: right;
+	}
     #redes ul {
         text-align: center;
     }
