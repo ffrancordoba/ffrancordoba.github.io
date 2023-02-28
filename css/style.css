@@ -208,6 +208,8 @@ header {
 }
 #habilidades span{
     font-weight: bold;
+	text-align: left;
+	
 }
 .progress {
     height: 6px;
