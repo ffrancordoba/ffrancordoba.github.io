@@ -36,9 +36,3 @@ const observer = new IntersectionObserver(function(entries, observer) {
 elementosdesvanece.forEach(element => {
   observer.observe(element);
 });
-
-function girarImagen() {
-  var imgContainer = document.querySelector(".fotogiro");
-  imgContainer.classList.toggle("active");
-}
-  
