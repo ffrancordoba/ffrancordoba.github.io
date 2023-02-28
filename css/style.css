@@ -348,4 +348,12 @@ footer a {
     .fotoperfil {
         text-align: center;
   }
+	#habilidades span{
+    font-weight: bold;
+		text-align: left;}
+	.tipohabp {
+    text-align: right;
+    padding-bottom: 5px;
+}
+	
 }
