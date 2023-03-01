@@ -117,6 +117,7 @@ header {
     background: linear-gradient(to bottom, #00FFFF 0%, #FF00FF 50%, #FFFF00 100%);
     padding: 30px;
     border-radius: 300px;
+    text-align: center;
 }
 #redes {
     color: cyan;
@@ -208,8 +209,6 @@ header {
 }
 #habilidades span{
     font-weight: bold;
-	text-align: left;
-	
 }
 .progress {
     height: 6px;
@@ -339,24 +338,13 @@ footer a {
     #navegador ul{
         flex-direction: column;
     }
-    * {
-        text-align: center;
+    .tipohab {
+        text-align: right;
     }
-	span {
-		text-align: right;
-	}
     #redes ul {
         text-align: center;
     }
-    .fotoperfil {
+    .fotocentrada {
         text-align: center;
   }
-	#habilidades span{
-    font-weight: bold;
-		text-align: left;}
-	.tipohabp {
-    text-align: right;
-    padding-bottom: 5px;
-}
-	
 }
